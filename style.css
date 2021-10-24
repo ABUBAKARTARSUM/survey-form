@@ -1,0 +1,13 @@
+header p {
+  font-size: larger;
+  color: white;
+}
+form .container {
+  background-color: rgb(46, 41, 41);
+  color: white;
+  border-radius: 7px;
+}
+body,
+html {
+  background: linear-gradient(90deg, rgb(50, 50, 143), rgb(81, 99, 143));
+}
